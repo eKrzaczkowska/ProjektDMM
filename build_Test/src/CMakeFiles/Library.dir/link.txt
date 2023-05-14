@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLibrary.a CMakeFiles/Library.dir/adc.c.o CMakeFiles/Library.dir/displayDriver.c.o CMakeFiles/Library.dir/voltage.c.o
+/usr/bin/ranlib libLibrary.a
